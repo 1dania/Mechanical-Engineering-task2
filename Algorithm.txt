@@ -1,0 +1,9 @@
+Algorithm Flow:
+1. Start system
+2. Load map and tasks
+3. Navigate to item location
+4. Pick item using 5DOF arm
+5. Move to delivery zone
+6. Drop item
+7. Return to base
+8. Wait for next task
